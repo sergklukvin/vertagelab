@@ -1,0 +1,79 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Vertagelab tests render correctly AddUpdateComponent component 1`] = `
+<div>
+  Loading...
+</div>
+`;
+
+exports[`Vertagelab tests render correctly App component 1`] = `
+<div
+  className="MuiContainer-root MuiContainer-maxWidthMd"
+>
+  <div
+    className="MuiPaper-root MuiCard-root makeStyles-root-1 MuiPaper-elevation1 MuiPaper-rounded"
+  >
+    <div
+      className="MuiCardContent-root"
+    >
+      <p
+        className="MuiTypography-root makeStyles-title-2 MuiTypography-body1"
+      >
+        GRADIENTS
+      </p>
+    </div>
+  </div>
+  <div>
+    Loading...
+  </div>
+</div>
+`;
+
+exports[`Vertagelab tests render correctly Form component 1`] = `
+<form
+  className="makeStyles-root-11"
+  onSubmit={[Function]}
+>
+  <input
+    defaultValue=""
+    name="colorOne"
+    placeholder="Color 1"
+  />
+  <input
+    defaultValue=""
+    name="colorTwo"
+    placeholder="Color 2"
+  />
+  <input
+    className="makeStyles-btnSubmit-14"
+    type="submit"
+    value="SUBMIT"
+  />
+</form>
+`;
+
+exports[`Vertagelab tests the Button text test 1`] = `
+<button
+  className="MuiButtonBase-root MuiButton-root MuiButton-text"
+  disabled={false}
+  onBlur={[Function]}
+  onDragLeave={[Function]}
+  onFocus={[Function]}
+  onKeyDown={[Function]}
+  onKeyUp={[Function]}
+  onMouseDown={[Function]}
+  onMouseLeave={[Function]}
+  onMouseUp={[Function]}
+  onTouchEnd={[Function]}
+  onTouchMove={[Function]}
+  onTouchStart={[Function]}
+  tabIndex={0}
+  type="button"
+>
+  <span
+    className="MuiButton-label"
+  >
+    GO BACK
+  </span>
+</button>
+`;
